@@ -1,7 +1,7 @@
-#git# Закачка фото с сайта surfingsilvercoast.com #git#
+#git# Photo downloader from surfingsilverc0ast #git#
 
-Там фотки с водяными знаками, вынуждают купить. 
-А эта прога клеит из увеличенных превьюшек исходную картинку.
+This app helps download image part by part from preview service.
+
 
 
 
